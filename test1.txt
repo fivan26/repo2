@@ -1,0 +1,10 @@
+ El volumen de la unidad F es jhon
+ El n£mero de serie del volumen es: 9E8D-B9E0
+
+ Directorio de F:\myProject
+
+10/05/2017  04:44 p.m.    <DIR>          .
+10/05/2017  04:44 p.m.    <DIR>          ..
+10/05/2017  04:44 p.m.                 0 test1.txt
+               1 archivos              0 bytes
+               2 dirs  19.503.005.696 bytes libres
